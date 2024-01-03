@@ -1,6 +1,6 @@
 #2D JavaGame
 #Luffy's Adventure.
-In this 2D Java game, you embark on a treasure hunt deep in the forest. Armed with keyboard controls, guide your adventurer around the screen using W(up), A(left), S(down), and D(right). Your quest involves collecting three scattered keys and picking random speed and slow potions.  With keys in hand, unlock the three mysterious doors to finally reach the hidden treasure! Remember, no key, no entry! So get exploring, adventurer!
+In this 2D Java game, you embark on a treasure hunt deep in the forest. Armed with keyboard controls, guide your adventurer around the screen using W(up), A(left), S(down), and D(right). Your quest involves collecting three scattered keys and picking potions for speed-up.  With keys in hand, unlock the three mysterious doors to finally reach the hidden treasure! Remember, no key, no entry! So get exploring, adventurer!
 
 Steps of the Game:
 * Start your adventure in the heart of the forest, adventurer! Your journey begins standing tall at the center of the screen.
